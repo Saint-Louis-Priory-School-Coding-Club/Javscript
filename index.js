@@ -1,3 +1,4 @@
-var hello = prompt("Who are you?");
+
+var hello = prompt();
 
 document.write("Hello " + hello);
